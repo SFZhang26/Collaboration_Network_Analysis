@@ -13,7 +13,9 @@
   [2] D.Kempe, J.M.Kleinberg, and É.Tardos. Maximizing the spread of inﬂuence through a social network. In Proceedings of the 9th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, pages 137–146, 2003. <br>
   [3] J.Tang, J.Sun, C.Wang, and Z.Yang. Social inﬂuence analysis in large-scale networks. In Proceedings of the 15th ACM SIGKDD Conferenceon Knowledge Discovery and Data Mining,2009. <br>
 <br>
-### 简介
+
+<br>
+### 简介 <br>
 datamining_author_topics.dat  是作者信息 <br>
 datamining_coauthor_info.dat  是合作关系信息<br>
 
